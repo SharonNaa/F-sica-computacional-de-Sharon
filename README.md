@@ -1,2 +1,2 @@
-# F-sica-computacional-de-Sharon
+# Fisica-computacional-de-Sharon
 Proyectos 
